@@ -44,7 +44,8 @@ This project is an end-to-end machine learning system to forecast weekly retail 
     ```
 
 3.  **Download Model Files:**
-    Download the trained model files (`xgboost_model.pkl`, `scaler.pkl`, `feature_names.json`) and place them in the `models/` directory.
+    Download the trained model files (`xgboost_model.pkl`, `scaler.pkl`, `feature_names.json`) .
+    -   [**Download Model Files from Google Drive**](https://drive.google.com/drive/folders/1YMMOxaaWLhdslE9cUMh6r7l5Bva3wypf?usp=sharing)
 
 ---
 
@@ -59,10 +60,7 @@ This project is an end-to-end machine learning system to forecast weekly retail 
 2.  **Make Predictions:**
     -   **Single Prediction:** Use the sidebar form to enter feature values and click "Predict".
     -   **Batch Prediction:** Upload a CSV file with the required features to get a downloadable file with predictions.
-
-**Download Model Files:**
-    Download the trained model files (`xgboost_model.pkl`, `scaler.pkl`, `feature_names.json`) from the link below.
-    -   [**Download Model Files from Google Drive**](https://drive.google.com/drive/folders/1YMMOxaaWLhdslE9cUMh6r7l5Bva3wypf?usp=sharing)
+    
 ---
 
 ## 📊 Model Performance
